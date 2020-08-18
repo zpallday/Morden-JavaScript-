@@ -43,3 +43,31 @@
 // }
 
 // console.log(x)
+
+// let egg = 42
+// egg + 55
+// console.log(egg)
+
+// const rating = 7.6
+// rating
+
+// let wind = 76;
+// wind += 5
+
+
+// msg.toLowerCase()
+// "you are so grounded mr"
+// console.log(msg)
+
+// `${1+5}`
+// `you own me ${10 + 321}`
+// let firstName = 'zach'
+// `my name is ${firstName}`
+
+// const minAge = 21
+// const yourAge = 19
+// `You must be ${minAge} or older to enter. Come back in ${minAge - yourAge} years`
+
+// Math.floor(Math.random() * 6) + 3 
+
+// typeof(null)
